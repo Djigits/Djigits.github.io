@@ -1,7 +1,6 @@
 body {
-    text-align: center;
-    background: linear-gradient(45deg, lightBlue, snow, white);
-   }
+    text-align: center;    
+}
 
 .container {
  background-color: #DE9C51;
@@ -29,24 +28,20 @@ body {
 
 h1 {
     color: white;
-    padding: 75px 0 75px 0;
     background: linear-gradient(45deg, pink, purple, darkBlue); 
     border: solid 10px white;
     border-radius: 50px;
    }
-   
+
 h3 {
 height: 40px;
  padding: 15px;
  border-radius: 8px;
- background: linear-gradient(aliceblue, white);
  text-align: center;
 }
 
 img {
     height: 300px;
-    padding: 20px;
-    border-radius: 8px;
-    background: linear-gradient(90deg, bisque, white, bisque);
-   }
+    padding: 20px;    
+}
    
